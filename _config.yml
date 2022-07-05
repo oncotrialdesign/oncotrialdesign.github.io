@@ -24,6 +24,8 @@ navbar-links:
         - Master protocols: "masterprotocols"
         - RWE/RWD: "rwerwd"
         - Interested to create a new task force?: "newtaskforce"
+    Ressources: "ressources"
+    Events: "events"
 
 
 # --- Logo --- #
