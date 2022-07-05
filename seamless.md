@@ -1,0 +1,3 @@
+---
+title: Seamless trial design
+---
