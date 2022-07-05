@@ -14,11 +14,6 @@ author: DIA IDSWG Oncology Subteam
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Task forces:
-    - Seamless development: "seamless"
-    - Master protocols: "masterprotocols"
-    - RWE/RWD: "rwerwd"
-    - Interested to create a new task force?: "newtaskforce"
    Ressources: "ressources"
    Events: "events"
 
