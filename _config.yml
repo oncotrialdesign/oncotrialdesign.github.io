@@ -14,13 +14,16 @@ author: DIA IDSWG Oncology Subteam
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About RECON:
-    - What we do: ""
-    - People: "people"
-    - Join us: "join"
-    - Contact: "contact"
-   Ressources: "ressources"
-   Events: "events"
+    About us:
+        - What we do: ""
+        - People: "people"
+        - Join us: "join"
+        - Contact: "contact"
+    Task forces:
+        - Seamless development: "seamless"
+        - Master protocols: "masterprotocols"
+        - RWE/RWD: "rwerwd"
+        - Interested to create a new task force?: "newtaskforce"
 
 
 # --- Logo --- #
