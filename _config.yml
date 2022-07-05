@@ -14,6 +14,11 @@ author: DIA IDSWG Oncology Subteam
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About RECON:
+    - What we do: ""
+    - People: "people"
+    - Join us: "join"
+    - Contact: "contact"
    Ressources: "ressources"
    Events: "events"
 
