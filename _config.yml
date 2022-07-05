@@ -51,29 +51,29 @@ social-network-links:
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: oncotrialdesign
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
+#  twitter: 
+#  patreon: 
+#  youtube: 
+#  medium: 
+#  reddit: 
+#  linkedin: 
+#  xing: 
+#  stackoverflow: 
+#  snapchat: 
+#  instagram: 
+#  spotify: 
+#  telephone:
+#  steam:
+#  twitch: 
+#  yelp: 
+#  telegram: 
+#  calendly: 
+#  mastodon: e
+#  ORCID: 
+#  google-scholar: 
+#  discord: 
+#  kaggle: 
+#  hackerrank: 
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -83,9 +83,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -111,17 +111,17 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+navbar-col: "#7DA2A9"
+navbar-text-col: "#000000"
+navbar-border-col: "#7DA2A9"
+page-col: "#F7F7F7"
+text-col: "#000000"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+hover-col: "#F7F7F7"
+footer-col: "#7DA2A9"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-link-col: "#000000"
+footer-hover-col: "#F7F7F7"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
