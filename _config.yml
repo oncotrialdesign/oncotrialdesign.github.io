@@ -19,6 +19,7 @@ navbar-links:
         - People: "people"
         - Join us: "join"
         - Contact: "contact"
+    News: "news"
     Task forces:
         - Seamless development: "seamless"
         - Master protocols: "masterprotocols"
