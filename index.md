@@ -28,7 +28,7 @@ The working group is interested in the following topics:
  - PRO endpoints
 
 ## Deliverables
-The working group deliverables includes but are not limited to:
+The working group deliverables include but are not limited to:
 -   Publication/Webinar/Guidance sharing
 -   Presentations in future conferences   
 -   Publication
