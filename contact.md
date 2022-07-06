@@ -24,7 +24,7 @@ To contact us, please send an email to our [generic address](mailto:oncotrialdes
 #fs-frm label,
 #fs-frm #card-element:disabled {
   font-family: inherit;
-  font-size: 100%;
+  font-size: inherit;
   color: inherit;
   border: none;
   border-radius: 0;
@@ -38,7 +38,7 @@ To contact us, please send an email to our [generic address](mailto:oncotrialdes
 #fs-frm label,
 #fs-frm legend,
 #fs-frm ::placeholder {
-  font-size: .825rem;
+  font-size: inherit;
   margin-bottom: .5rem;
   padding-top: .2rem;
   display: flex;
