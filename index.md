@@ -12,12 +12,12 @@ To summarize the advantages and obstacles in innovative trial designs that are u
 - Seamless design
 - Biomarker adaptive/enrichment design
 - Response adaptive randomization
-- To explore novel methodologies responding to oncology trial challenges:
-	- Non-proportional hazard
-	- Dual-novel combination therapy
+
+To explore novel methodologies responding to oncology trial challenges:
+- Non-proportional hazard
+- Dual-novel combination therapy
 
 The working group is interested in the following topics:
-
  - Master protocol
  - Biomarker adaptive/enrichment design
  - Endpoints and  estimation
@@ -28,7 +28,7 @@ The working group is interested in the following topics:
  - PRO endpoints
 
 ## Deliverables
-The working group deliverables includes but is not limited to:
+The working group deliverables includes but are not limited to:
 -   Publication/Webinar/Guidance sharing
 -   Presentations in future conferences   
 -   Publication
