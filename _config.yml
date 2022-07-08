@@ -15,7 +15,7 @@ author: DIA IDSWG Oncology Subteam
 
 navbar-links:
     About us:
-        - What we do: ""
+        - What we do: "index"
         - People: "people"
         - Join us: "join"
         - Contact: "contact"
