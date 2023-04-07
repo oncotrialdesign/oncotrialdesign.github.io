@@ -1,5 +1,5 @@
 ---
-title: DIA IDSWG Oncology Subteam 
+title: IDSWG Oncology Subteam 
 ---
 
 Oncology drug development is very dynamic with constant new approvals which change the treatment landscape quickly.  Acceleration of oncology drug development is crucial for success, otherwise an effective may lose the opportunity to be available to the patients.  Statisticians play a critical role in moving drug development program forward.  This oncology subteam is created to specifically tackle the practical issues arise in industry and to collaborate with colleagues across industry, academia, and regulatory to optimize study designs.  FDA has been encouraging the consideration of innovative trial designs and established a complex innovative design (CID) pilot program through September 30, 2022, yet only one proposal in oncology drug development have been accepted.  Other regulatory agencies have engaged industry in an exploration of innovative efficient designs through working groups.  This subteam will gather past experiences and designs been implemented in oncology studies, while researching more innovative designs to further oncology drug development.

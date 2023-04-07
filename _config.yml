@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: DIA IDSWG Oncology Subteam
+title: IDSWG Oncology Subteam
 
 # Your name to show in the footer
-author: DIA IDSWG Oncology Subteam
+author: IDSWG Oncology Subteam
 
 # --- List of links in the navigation bar --- #
 
@@ -44,7 +44,7 @@ navbar-links:
 #title-img: /path/to/image
 
 
-# --- Footer social media links --- #
+# --- Footer social melinks --- #
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
@@ -247,7 +247,7 @@ defaults:
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      social-share: true # add social mesharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
