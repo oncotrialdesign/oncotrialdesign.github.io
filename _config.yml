@@ -24,7 +24,7 @@ navbar-links:
         - Seamless development: "seamless"
         - Master protocols: "masterprotocols"
         - RWE/RWD: "rwerwd"
-        - Optimal dose: "optimaldose"
+        - Dose optimization: "optimaldose"
         - Interested to create a new task force?: "newtaskforce"
     Ressources: "ressources"
     Events: "events"
