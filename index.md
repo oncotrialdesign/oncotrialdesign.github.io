@@ -11,6 +11,8 @@ Develop, Explore, Promote, and Implement innovative Clinical Trial (DEPICT) desi
 - To summarize the advantages and obstacles of innovative trial designs and propose solutions in oncology clinical development.
 - To explore and implement novel methodologies responding to evolving oncology trial design challenges.
 
+<div align="center">
+  
 |     Taskforce            |     Leads                      |
 |--------------------------|--------------------------------|
 |     RWD/RWE              |     Binbing Yu; Haijun Ma      |
@@ -18,6 +20,7 @@ Develop, Explore, Promote, and Implement innovative Clinical Trial (DEPICT) desi
 |     Dose Optimization    |     Pat Mitchell               |
 |     Seamless Design      |     Philip He; Yingwen Dong    |
 
+ </div>
 ## Deliverables
 The working group deliverables include but are not limited to:
 -   Publication/Webinar/Guidance knowledge sharing
