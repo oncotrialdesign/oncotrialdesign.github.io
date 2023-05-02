@@ -1,3 +1,3 @@
 ---
-title: Optimal Dose
+title: Dose optimization
 ---
