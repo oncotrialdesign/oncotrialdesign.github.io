@@ -21,6 +21,7 @@ Develop, Explore, Promote, and Implement innovative Clinical Trial (DEPICT) desi
 |     Seamless Design      |     Philip He; Yingwen Dong    |
 
  </div>
+ 
 ## Deliverables
 The working group deliverables include but are not limited to:
 -   Publication/Webinar/Guidance knowledge sharing
