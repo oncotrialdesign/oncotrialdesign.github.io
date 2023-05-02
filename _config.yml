@@ -16,7 +16,7 @@ author: IDSWG Oncology Subteam
 navbar-links:
     About us:
         - What we do: "index"
-        - People: "people"
+       # - People: "people"
         - Join us: "join"
         - Contact: "contact"
     News: "news"
