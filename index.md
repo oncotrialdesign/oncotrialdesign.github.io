@@ -12,12 +12,13 @@ Develop, Explore, Promote, and Implement innovative Clinical Trial (DEPICT) desi
 - To explore and implement novel methodologies responding to evolving oncology trial design challenges.
 
   
-|     Taskforce            |     Leads                      |
-|--------------------------|--------------------------------|
-|     RWD/RWE              |     Binbing Yu; Haijun Ma      |
-|     Master Protocol      |     Freda Cooner; Cindy Lu     |
-|     Dose Optimization    |     Pat Mitchell               |
-|     Seamless Design      |     Philip He; Yingwen Dong    |
+|     Taskforce                 |     Leads                      |
+|-------------------------------|--------------------------------|
+|     Seamless development      |     Philip He & Yingwen Dong   |
+|     Master protocols          |     Freda Cooner & Cindy Lu    |
+|     RWD/RWE                   |     Binbing Yu & Haijun Ma     |
+|     Dose optimization         |     Pat Mitchell               |
+
 
  
 ## Deliverables
