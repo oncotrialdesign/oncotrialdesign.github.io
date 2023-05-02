@@ -1,34 +1,26 @@
 ---
-title: IDSWG Oncology Subteam 
+title: IDSWG Oncology/Immuno-Oncology Subteam
 ---
 
-Oncology drug development is very dynamic with constant new approvals which change the treatment landscape quickly.  Acceleration of oncology drug development is crucial for success, otherwise an effective may lose the opportunity to be available to the patients.  Statisticians play a critical role in moving drug development program forward.  This oncology subteam is created to specifically tackle the practical issues arise in industry and to collaborate with colleagues across industry, academia, and regulatory to optimize study designs.  FDA has been encouraging the consideration of innovative trial designs and established a complex innovative design (CID) pilot program through September 30, 2022, yet only one proposal in oncology drug development have been accepted.  Other regulatory agencies have engaged industry in an exploration of innovative efficient designs through working groups.  This subteam will gather past experiences and designs been implemented in oncology studies, while researching more innovative designs to further oncology drug development.
+Oncology drug development is complicated and dynamic with constant new approvals which change the treatment landscape quickly.  Acceleration of oncology drug development is crucial for success, otherwise an effective treatment may lose the opportunity to be available to the patients.  Statisticians play a critical role in moving drug development programs forward.  This oncology subteam is created to specifically tackle practical issues arising from industry and to collaborate with colleagues across industry, academia, and regulatory to optimize study designs.  FDA has been encouraging the consideration of innovative trial designs and established a complex innovative design (CID) pilot program through September 30, 2022, and yet only one proposal in oncology drug development has been accepted.  Since PDUFA VII in 2023, FDA is continuing the CID paired meeting program to support the goal of facilitating and advancing the use of complex adaptive, Bayesian, and other novel clinical trial designs.  Moreover, FDA OCE was authorized by the 21st Century Cures Act of 2016 and established on January 19, 2017.  The Center unites experts across the FDA to conduct expedited review of medical products for oncologic and hematologic malignancies.  The OCE has initiated multiple projects, including Project Significance and Project Optimus, while playing a critical role in initiatives, such as the RWE framework and diversity plan.  These projects and initiatives provide invaluable guidance and opportunities in various aspects of clinical development.  Other regulatory agencies have also engaged industry in an exploration of innovative and efficient designs through working groups.  This subteam will gather experiences and existing designs that have been implemented in oncology studies, while researching more innovative approaches to expedite oncology drug development.  Furthermore, collaboration with other working groups on these topics have been and will continue to be explored.
 
 # Objectives and Deliverables
+Develop, Explore, Promote, and Implement innovative Clinical Trial (DEPICT) designs in cancer drug clinical development
 
 ## Objectives:
-To summarize the advantages and obstacles in innovative trial designs that are unique to oncology clinical development with focus on:
-- Master protocol
-- Seamless design
-- Biomarker adaptive/enrichment design
-- Response adaptive randomization
+- To summarize the advantages and obstacles of innovative trial designs and propose solutions in oncology clinical development.
+- To explore and implement novel methodologies responding to evolving oncology trial design challenges.
 
-To explore novel methodologies responding to oncology trial challenges:
-- Non-proportional hazard
-- Dual-novel combination therapy
-
-The working group is interested in the following topics:
- - Master protocol
- - Biomarker adaptive/enrichment design
- - Endpoints and  estimation
- - Non-proportional hazard
- - RWD/RWE
- - Bayesian early phase designs
- - Biomarker data (missing data) 
- - PRO endpoints
+|     Taskforce            |     Leads                      |
+|--------------------------|--------------------------------|
+|     RWD/RWE              |     Binbing Yu; Haijun Ma      |
+|     Master Protocol      |     Freda Cooner; Cindy Lu     |
+|     Dose Optimization    |     Pat Mitchell               |
+|     Seamless Design      |     Philip He; Yingwen Dong    |
 
 ## Deliverables
 The working group deliverables include but are not limited to:
--   Publication/Webinar/Guidance sharing
--   Presentations in future conferences   
+-   Publication/Webinar/Guidance knowledge sharing
+-   Presentations in future conferences or webinars   
+-   Commenting on regulatory guidance documents
 -   Publication
