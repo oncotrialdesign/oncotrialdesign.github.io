@@ -2,6 +2,7 @@
 layout: post
 title: IDSWG Oncology JSM 2023 Reflection Part I
 subtitle: Statistical Considerations in Basket Trial Design
+author: Philip He
 tags: [JSM, basket trial, design]
 comments: true
 ---
