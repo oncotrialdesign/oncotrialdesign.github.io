@@ -13,8 +13,7 @@ comments: true
 ## Basket Trial Design in Exploratory Setting
 
 <figure>
-<img align="left" src="https://github.com/oncotrialdesign/oncotrialdesign.github.io/blob/master/assets/img/blog/2023_JSM_basket/fig1.png" alt="Figure 1">
-<figcaption>Figure 1</figcaption>
+<img align="left" src="/assets/img/blog/2023_JSM_basket/fig1.png" alt="Figure 1">
 </figure>
 
 In recent years, the concept of basket trials (Figure 1) has emerged as a groundbreaking approach for assessing the effectiveness of targeted therapies across diverse tumor types, referred to as "baskets," that share a common molecular alteration or biomarker. This innovative basket trial design represents a fundamental departure from traditional oncology drug development, which typically focuses on the tumor's tissue of origin. Instead, basket trials open up a novel avenue for accelerating the delivery of potent targeted therapies to patients by prioritizing the underlying molecular characteristics over the organ where the tumor originates. This paradigm shift in clinical research offers a valuable opportunity to expedite the availability of effective targeted treatments to a broader spectrum of patients.
