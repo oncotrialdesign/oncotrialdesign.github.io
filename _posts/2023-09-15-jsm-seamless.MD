@@ -8,6 +8,8 @@ comments: true
 thumbnail-img: /assets/img/blog/2023_JSM_seamless/fig0.png
 ---
 
+Following my previous post highlighting the [Statistical Considerations in Basket Trial Design](https://oncotrialdesign.github.io/2023-09-15-jsm-basket/) session during the 2023 [Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2023/index.cfm), I would like to provide in this post highlights of another session organized by the team: **Seamless Late-Stage Development in Oncology – the Past Decade in Practice**.
+
 # Seamless Late-Stage Development in Oncology – the Past Decade in Practice
 
 Seamless designs are a type of study design that enables a smooth transition from one phase of a clinical trial to another within a single clinical protocol, eliminating the need for multiple protocol developments and pauses. Typically, a confirmatory seamless design includes two distinct phases: the exploratory phase and the confirmatory phase. Within this framework, various adaptive design types can be incorporated to enhance the study's efficiency and flexibility. Over the past two decades, numerous seamless designs have been proposed to accommodate a wide range of adaptive features. These include considerations such as population selection, as discussed in works by Chen et al. (2013), Li et al. (2013), Posch et al. (2016), and Li et al. (2019); regimen/dose optimization by Jin et al. (2012) and Jin and Zhang (2022); and endpoint selection, as highlighted in studies by Xu et al. (2023) and Sinha et al. (2022). These innovative seamless design approaches aim to enhance the efficiency and robustness of clinical trials while maintaining methodological rigor.
