@@ -5,6 +5,7 @@ subtitle: Statistical Considerations in Basket Trial Design
 author: Philip He
 tags: [JSM, basket trial, design]
 comments: true
+thumbnail-img: /assets/img/blog/2023_JSM_basket/fig0.png
 ---
 
 [IDSWG Oncology Group](https://oncotrialdesign.github.io/) was established in 2021 with the mission to Develop, Explore, Promote, and Implement innovative Clinical Trial (DEPICT) designs in cancer drug clinical development. The team consists of the subteams covering hot and challenging topics including RWD/RWE, master protocols, seamless development and oncology dosing. Joint Statistical Meeting (JSM) is the largest statistical conference within our community, offering a veritable feast of statistical advances. Notably, the IDSWG Oncology subteam also contributed to this event with a variety of engagements. I’d like to highlight two featured sessions organized by the team: **Statistical Considerations in Basket Trial Design**, and **Seamless Late-Stage Development in Oncology – the Past Decade in Practice**. 
@@ -76,7 +77,7 @@ During the session, Dr. Beckman from Georgetown University discussed the conside
 
 This collaborative discussion, organized by Dr. Freda Cooner (Eli Lilly) and chaired by Dr. Hiya Banerjee (Eli Lilly), attracted significant interest from the audience and made substantial contributions to the broader scientific community's understanding of basket trials in both exploratory and confirmatory settings.
 
-Disclaimer: Please note the views and opinions expressed in this presentation are those of the author and are not intended to reflect the views and/or opinions of Daiichi Sankyo.
+*Disclaimer: Please note the views and opinions expressed in this presentation are those of the author and are not intended to reflect the views and/or opinions of Daiichi Sankyo.*
 
 ## References
 1.	Berry, S. M., Broglio, K. R., Groshen, S., & Berry, D. A. (2013). Bayesian hierarchical modeling of patient subpopulations: efficient designs of phase II oncology clinical trials. Clinical Trials, 10(5), 720-734.
