@@ -40,7 +40,7 @@
           {% if include.type == "post" %}
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.author %} 
-              <span class="post-meta">Written by {{ page.author }}</span>
+              <br/><span class="post-meta">Written by {{ page.author }}</span>
             {% endif %}
           {% if page.last-updated %}
               <span class="post-meta">
@@ -77,7 +77,7 @@
           {% if include.type == "post" %}
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.author %} 
-              <span class="post-meta">Written by {{ page.author }}</span>
+              <br/><span class="post-meta">Written by {{ page.author }}</span>
             {% endif %}
             {% if page.last-updated %}
               <span class="post-meta">
