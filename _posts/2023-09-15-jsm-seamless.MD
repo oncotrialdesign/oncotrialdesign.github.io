@@ -5,7 +5,7 @@ subtitle: Seamless Late-Stage Development in Oncology – the Past Decade in Pra
 author: Philip He
 tags: [JSM, seamless, design]
 comments: true
-thumbnail-img: /assets/img/blog/2023_JSM_/fig0.png
+thumbnail-img: /assets/img/blog/2023_JSM_seamless/fig0.png
 ---
 
 # Seamless Late-Stage Development in Oncology – the Past Decade in Practice
