@@ -10,6 +10,46 @@ html {
   font-size: 100%
 }
 
+figureleft {
+  float: left;
+  width: 100%
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: none;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+figurecenter {
+  float: center
+  width: 100%
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: none;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+figureright {
+  float: right;
+  width: 100%
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: none;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+figcaption {
+  text-align: center;
+}
+
 body {
   /*font-family: 'Lora', 'Times New Roman', serif;*/
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
