@@ -8,7 +8,7 @@ comments: true
 thumbnail-img: /assets/img/blog/2023_JSM_seamless/fig0.png
 ---
 
-Following my previous post highlighting the [Statistical Considerations in Basket Trial Design](https://oncotrialdesign.github.io/2023-09-15-jsm-basket/) session during the 2023 [Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2023/index.cfm), I would like to provide in this post highlights of another session organized by the team: **Seamless Late-Stage Development in Oncology – the Past Decade in Practice**.
+Following my previous post highlighting the [Statistical Considerations in Basket Trial Design](/2023-09-15-jsm-basket) session during the 2023 [Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2023/index.cfm), I would like to provide in this post highlights of another session organized by the team: **Seamless Late-Stage Development in Oncology – the Past Decade in Practice**.
 
 # Seamless Late-Stage Development in Oncology – the Past Decade in Practice
 
