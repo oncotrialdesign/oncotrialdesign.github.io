@@ -5,9 +5,8 @@ subtitle: Seamless Late-Stage Development in Oncology – the Past Decade in Pra
 author: Philip He
 tags: [JSM, seamless, design]
 comments: true
+thumbnail-img: /assets/img/blog/2023_JSM_/fig0.png
 ---
-
-[IDSWG Oncology Group](https://oncotrialdesign.github.io/) was established in 2021 with the mission to Develop, Explore, Promote, and Implement innovative Clinical Trial (DEPICT) designs in cancer drug clinical development. The team consists of the subteams covering hot and challenging topics including RWD/RWE, master protocols, seamless development and oncology dosing. Joint Statistical Meeting (JSM) is the largest statistical conference within our community, offering a veritable feast of statistical advances. Notably, the IDSWG Oncology subteam also contributed to this event with a variety of engagements. I’d like to highlight two featured sessions organized by the team: **Statistical Considerations in Basket Trial Design**, and **Seamless Late-Stage Development in Oncology – the Past Decade in Practice**. 
 
 # Seamless Late-Stage Development in Oncology – the Past Decade in Practice
 
@@ -17,7 +16,7 @@ Seamless designs are a type of study design that enables a smooth transition fro
 <img class="center" src="/assets/img/blog/2023_JSM_seamless/fig1.png" alt="Figure 1">
 <figcaption>Figure 1 - Use of Seamless Study Designs for registrational purpose
 <br/>Source: Dr. Dong’s Presentation
-</figcaption>
+</figcaption>seamless
 </figurecenter>
 
 ## Use of seamless study designs 
@@ -66,8 +65,7 @@ Dr. Thomas Gwise summarized the presentations and highlighted design points that
 The session was organized by Dr. Philip He (Daiichi Sankyo Inc.), chaired by Dr. Feifang Hu (George Washington University), and joined by discussant Dr. Thomas Gwise (Gwise Consulting LLC). 
 Despite its placement in the last half day of the conference, the session managed to attract a significant audience in the room. The session featured presentations and contributions from several key individuals, including A. Kumar, F. Liu, Y. Dong, K. Broglio, P. He, F. Cooner, T. Gwise, and F. Hu, as shown in Figure 11.
 
-
-Disclaimer: Please note the views and opinions expressed in this presentation are those of the author and are not intended to reflect the views and/or opinions of Daiichi Sankyo.
+*Disclaimer: Please note the views and opinions expressed in this presentation are those of the author and are not intended to reflect the views and/or opinions of Daiichi Sankyo.*
 
 ## References
 1.	Chen YH, Chappell R (2012). Adaptive designs for clinical trials with biomarkers. Journal of Biopharmaceutical Statistics. DOI: 10.1080/10543406.2012.644869
